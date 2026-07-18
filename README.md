@@ -2,9 +2,7 @@
 
 **Adaptive trading systems for U.S. equities and CME futures.**
 
-[🌐 quantwave.app](https://quantwave.app) — Live platform  
-[📊 Analytics](https://analytics.quantwave.app) — Usage statistics  
-[💼 LinkedIn](https://linkedin.com/company/quantwave) — Company profile  
+[🌐 Live Platform](https://quantwave.app) · [📊 Analytics](https://analytics.quantwave.app) · [💼 LinkedIn](https://linkedin.com/company/quantwave)
 
 ## What is QuantWave?
 
