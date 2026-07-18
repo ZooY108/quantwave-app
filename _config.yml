@@ -1,0 +1,16 @@
+title: "QuantWave App"
+description: "Adaptive trading systems for U.S. equities and CME futures"
+url: "https://zooy108.github.io/quantwave-app"
+baseurl: ""
+author:
+  name: "QuantWave Technologies"
+  email: "a@quantwave.tech"
+social:
+  name: QuantWave
+  links:
+    - https://quantwave.app
+    - https://github.com/ZooY108
+    - https://linkedin.com/company/quantwave
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
